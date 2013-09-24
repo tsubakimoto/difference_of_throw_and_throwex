@@ -1,0 +1,10 @@
+D:\xampp\htdocs\public_html\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\xampp\htdocs\public_html\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\xampp\htdocs\public_html\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\xampp\htdocs\public_html\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\xampp\htdocs\public_html\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+R:\Temp\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+R:\Temp\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+R:\Temp\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+R:\Temp\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+R:\Temp\difference_of_throw_and_throwex\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
